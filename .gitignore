@@ -1,0 +1,3 @@
+# Ignore everything in the "dataset" directory
+.DS_Store
+__pycache__

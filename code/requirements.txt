@@ -1,0 +1,17 @@
+requests
+curl_cffi
+aiohttp
+pycryptodome
+numpy>=1.22.2
+PyExecJS
+browser_cookie3
+certifi
+pandas
+transformers
+torch
+xformers
+scipy
+datasets
+sklearn
+scikit-learn
+accelerate
